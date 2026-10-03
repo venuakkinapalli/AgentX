@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Hostel Complaint Management Platform
 ## Module 1: Admin Dashboard for Student Registration
 
@@ -98,3 +99,7 @@ Open your browser at `http://localhost:5173`.
   - `hostel` (optional)
   - `block` (optional)
 - **Response**: List of students ordered by creation time descending.
+=======
+# AgentX
+smart hostel management 
+>>>>>>> 361f924dda752285dfeca249bb1de9b85164016c
